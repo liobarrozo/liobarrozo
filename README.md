@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋, soy liobarrozo</h1>
 <h3 align="center">Desarrollador Web en Proceso 🌐</h3>
 
-- 🔭 Actualmente estoy trabajando en **Mendoza Futura**
+- 🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en  **Mendoza Futura**
 
-- 🌱 Estoy estudiando **Desarrollo Web**
+- 🌱 Estoy estudiando **Tecnicatura Universitaria en Programación**
 
-- 👨‍💻 Mis proyectos estarán disponibles en [https://liobarrozo.github.io/portfolio/](https://liobarrozo.github.io/portfolio/)
-
-- 📫 Podes contactarme en **liobarrozo8@gmail.com**
+- 📫 Podes contactarme en **alejo@liobarrozo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
