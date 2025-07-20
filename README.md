@@ -3,8 +3,6 @@
 
 - 🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en  **Mendoza Futura**
 
-- 🌱 Estoy estudiando **Tecnicatura Universitaria en Programación**
-
 - 📫 Podes contactarme en **alejo@liobarrozo.com**
 
 <h3 align="left">Connect with me:</h3>
