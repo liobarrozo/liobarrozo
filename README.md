@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy liobarrozo</h1>
-<h3 align="center">Desarrollador Web en Proceso 🌐</h3>
+<h3 align="center">Web Developer🌐</h3>
 
 - 🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en  **Mendoza Futura**
 
