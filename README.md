@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy liobarrozo</h1>
 <h3 align="center">Web Developer🌐</h3>
 
-- 🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en  **Mendoza Futura**
+- 🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en **Mendoza Futura**
 
 - 📫 Podes contactarme en **alejo@liobarrozo.com**
 
