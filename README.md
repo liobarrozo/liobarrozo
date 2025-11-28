@@ -10,6 +10,12 @@
 
 ###
 
+<h3 align="left">Conectemos en:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alejo-leonel-barrozo-56b05527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo leonel barrozo" height="30" width="40" /></a>
+<a href="https://instagram.com/liobarrozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liobarrozo" height="30" width="40" /></a>
+</p>
+
 <h2 align="left">Trabajo con:</h2>
 
 ###
