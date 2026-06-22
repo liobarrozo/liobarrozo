@@ -55,3 +55,6 @@
 </picture>
 
 ###
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=liobarrozo&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&stroke=7D01EB)](https://git.io/streak-stats)
