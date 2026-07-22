@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> 👨🏽‍💻 Creador de <a href="https://turisuite.com" target="blank">Turisuite </a>, donde agencias de turismo gestionan sus excursiones<br>🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en <a href="https://www.linkedin.com/in/mendoza-futura-comunidad/" target="blank">Conectados por Mendoza Futura</a><br><br>📫 Podes contactarme en liobarrozo8@gmail.com</p>
+<p align="left"> 👨🏽‍💻 Creador de <a href="https://turisuite.com" target="blank">Turisuite </a>, donde agencias de turismo gestionan sus excursiones<br>🔭 Facilitador de Contenidos Tecnológicos en <a href="https://www.linkedin.com/in/mendoza-futura-comunidad/" target="blank">Conectados por Mendoza Futura</a><br><br>📫 Podes contactarme en liobarrozo8@gmail.com</p>
 
 ###
 
